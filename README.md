@@ -9,12 +9,15 @@ This repository is dedicated to the  projects of the Graduate program in Data Sc
 Here are the projects and assignments for the four periods.
 
 :pushpin:1st Period
+
 :pushpin:2nd Period
+
 :pushpin:3rd Period
+
 :pushpin:4th Period
 
-
-
 :closed_book:Educational Institution: UnimetroCamp University Center Wyden - PR
+
 📅Period: Jun/2024 - Jun/2025
+
 
