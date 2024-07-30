@@ -1,0 +1,18 @@
+"IDCLIENTE","NOME","IDADE","FONTE_RENDA_ID","TOTAL_ATRASADO","TOTAL_PAGO_COM_ATRASO","TOTAL_PAGO_EM_DIA","TAXA_INADIMPLENCIA"
+1,"Carla Oliveira",34,1,2,5,1,16,66666666666666666666666666666666666667
+38,"Ricardo Martins",48,1,0,0,20,0
+5,"Suelem Magalhães",45,1,0,3,5,0
+36,"Fernando Costa",55,21,0,0,20,0
+37,"Marcos Oliveira",60,21,0,0,20,0
+39,"Ana Fernandes",34,5,0,0,20,0
+6,"Marcelo Fernandes",41,2,0,1,7,0
+40,"Maria Santos",52,21,0,0,20,0
+2,"João da Silva",37,2,0,6,6,0
+33,"Paulo Souza",50,1,0,0,20,0
+9,"Tatiane Rocha",44,1,0,0,6,0
+32,"João Pereira",45,1,0,0,12,0
+8,"André Lima",47,2,0,0,20,0
+31,"Carlos Silva",35,2,0,0,20,0
+35,"Rafael Lima",42,1,0,0,12,0
+3,"Paula Santos",36,1,0,4,8,0
+4,"Ana Costa",29,2,0,8,4,0

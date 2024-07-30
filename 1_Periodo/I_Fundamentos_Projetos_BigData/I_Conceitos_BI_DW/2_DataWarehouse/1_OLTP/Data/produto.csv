@@ -1,0 +1,7 @@
+"IDPRODUTO","NOME_PRODUTO","DESCRICAO","TIPO_PRODUTO","VALOR_MINIMO","VALOR_MAXIMO","NUMERO_PARCELAS_MAXIMO","CONDICOES_ESPECIAIS"
+1,"Crédito direto ao consumidor - Energia","CDCE - Débito energia","CDCE",500,2200,24,"Não comprova renda"
+2,"Crédito com débito em conta","CDC Débito em conta","CDC",500,3000,18,"Comprova renda"
+3,"Crédito pessoal com garantia - CP auto","CPGA","CPGA",5000,50000,36,"Carros de até 20 anos como garantia"
+4,"Crédito Pessoal Energia","CPE","CPE",400,2200,22,"Não comprova renda - Parcela na fatura de energia"
+5,"Crédito pessoal Boleto","CPB","CPB",500,10000,22,"Comprova renda"
+6,"Crédito consignado aprovado","CCA -Crédito consignado aprovado","CCA",300,10000,22,"Ou até 30% do salário - Não comprova renda"
